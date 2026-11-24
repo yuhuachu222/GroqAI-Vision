@@ -1,0 +1,6 @@
+streamlit
+ollama
+groq
+pillow
+opencv-python-headless
+numpy
